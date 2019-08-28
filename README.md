@@ -1,5 +1,3 @@
-// Program to Perform Arithmetic Operations in Java 
-
 package JavaOperators;
 
 import java.util.Scanner;
